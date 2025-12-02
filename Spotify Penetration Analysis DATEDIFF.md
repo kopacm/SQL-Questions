@@ -84,9 +84,6 @@ order by active_users / total_users desc;
 ```
 
 ---
-tags:
-  - resource
-Area:
 Links:
   - https://platform.stratascratch.com/coding/10369-spotify-penetration-analysis?code_type=3
 ---
