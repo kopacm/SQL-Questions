@@ -1,10 +1,4 @@
----
-tags:
-  - resource
-Area:
-Links:
-  - https://platform.stratascratch.com/coding/10369-spotify-penetration-analysis?code_type=3
----
+
 **Here are the MySQL functions I used:**
 
 - DATEDIFF
@@ -89,15 +83,11 @@ order by active_users / total_users desc;
 
 ```
 
+---
+tags:
+  - resource
+Area:
+Links:
+  - https://platform.stratascratch.com/coding/10369-spotify-penetration-analysis?code_type=3
+---
 
-
-
-
-
-
-----------------------------------------
-Does this note add something to discussion in Obsidian ? 
-- Is this note open to connection to other note or is it already connected ? 
-- Is this note enriching my Obsidian ? 
-- Am I focused only on this project or am I looking also on bigger picture ? 
-- Am I seeking for dis-confirming facts or only confirming previous notes? 
