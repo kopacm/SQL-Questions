@@ -1,13 +1,11 @@
----
-tags:
-  - resource
-Area:
+
 Links:
   - https://platform.stratascratch.com/coding/10355-employees-with-same-birth-month?code_type=3
----
+
+
 At the beginning of this task, I used the following SQL concepts and constructs in MySQL:
 
-- `SELECT` and `FROM` to choose columns and the table
+
 - `GROUP BY` to aggregate at the department (profession) level
 - `SUM()` as an aggregate function
 - `CASE WHEN ... THEN ... ELSE ... END` for conditional aggregation
@@ -53,7 +51,6 @@ SELECT
 FROM employee_list
 -- Aggregate at the department (profession) level      
 GROUP BY profession;                                    
-
 ```
 
 
