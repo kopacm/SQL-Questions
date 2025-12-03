@@ -3,7 +3,7 @@ Links:
   - https://platform.stratascratch.com/coding/10355-employees-with-same-birth-month?code_type=3
 
 
-At the beginning of this task, I used the following SQL concepts and constructs in MySQL:
+I used the following SQL concepts and constructs in MySQL:
 
 
 - `GROUP BY` to aggregate at the department (profession) level
