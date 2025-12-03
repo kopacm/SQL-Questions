@@ -54,15 +54,3 @@ GROUP BY profession;
 ```
 
 
-
-
-
-
-
-
-----------------------------------------
-Does this note add something to discussion in Obsidian ? 
-- Is this note open to connection to other note or is it already connected ? 
-- Is this note enriching my Obsidian ? 
-- Am I focused only on this project or am I looking also on bigger picture ? 
-- Am I seeking for dis-confirming facts or only confirming previous notes? 
