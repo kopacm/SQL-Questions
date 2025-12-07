@@ -51,5 +51,6 @@ WHERE returnwithin7days = 1;
 
 WITH AS is CTE (Common Table Expression) is a **temporary named result set** defined at the start of query
 
+## Source
 
-
+[StrataScratch](https://platform.stratascratch.com/coding/10553-finding-purchases?code_type=3)
